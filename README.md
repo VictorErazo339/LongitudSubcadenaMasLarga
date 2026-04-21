@@ -31,7 +31,7 @@ El corazon del codigo consiste en la función de dos punteros (`izquierda` y `de
 
 ## 💻 Descarga y Ejecución
 
-Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
+Para ejecutar este proyecto en tu computador, sigue estos pasos:
 
 ### Pasos
 1. **Clonar o descargar el archivo:**
