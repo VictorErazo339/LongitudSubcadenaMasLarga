@@ -27,7 +27,7 @@ Se utiliza un `HashSet<Character>` llamado `ventana`. Su función es actuar como
 El corazon del codigo consiste en la función de dos punteros (`izquierda` y `derecha`):
 * El puntero **derecha** expande la ventana reccoriendo caracter por caracter.
 * Si se encuentra un carácter repetido, el puntero **izquierda** se desplaza hacia adelante, eliminando caracteres del Set hasta que la repetición desaparece.
-* En cada iteración, se calcula la distancia entre ambos punteros y se actualiza el valor `maximo` si la longitud actual es superior al récord previo.
+* En cada iteración, se calcula la distancia entre ambos punteros y se actualiza el valor `maximo` si la longitud actual es superior al récord anterior.
 
 ## 💻 Instalación y Ejecución
 
